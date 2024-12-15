@@ -1,1 +1,2 @@
-# Mini-project_numpy
+# Mini project_numpy
+ 
